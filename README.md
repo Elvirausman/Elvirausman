@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Elvira
+- 🌱 I’m currently learning Software Engineering with ALX
+- ⚡ Fun fact: ... I AM BORED
